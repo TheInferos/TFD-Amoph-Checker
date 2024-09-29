@@ -1,0 +1,1546 @@
+{
+	"001": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Lepic Stabilizer" },
+			{ "chance": 0.06, "name": "The Final Masterpiece Nano Tube" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Piercing Light Nano Tube" },
+			{ "chance": 0.38, "name": "Nazeistras Devotion Code" }
+		],
+		"dropsFrom": "Kingston (Normal) - Fallen Theater: Vulgus Strategic Outpost",
+		"useIn": "Kingston (Normal) - Grand Square: Void Fusion Reactor"
+	},
+	"002": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Afterglow Sword Syncytium" },
+			{
+				"chance": 0.15,
+				"name": "Gregs Reversed Fate Fiber"
+			},
+			{ "chance": 0.38, "name": "Smithereens Fiber" },
+			{ "chance": 0.38, "name": "Gley Code" }
+		],
+		"dropsFrom": "Kingston (Normal) - Magister Lab",
+		"useIn": "Grave Walker"
+	},
+	"003": {
+		"drops": [
+			{ "chance": 0.03, "name": "Jayber Cells" },
+			{ "chance": 0.06, "name": "Enzo Cells" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Albion Cavalry Gun Nano Tube" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Syncytium"
+			}
+		],
+		"dropsFrom": "Kingston (Normal) - Slumber Valley",
+		"useIn": "Grave Walker"
+	},
+	"004": {
+		"drops": [
+			{ "chance": 0.03, "name": "Secret Garden Nano Tube" },
+			{ "chance": 0.06, "name": "Viessa Cells" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Lepic Stabilizer" },
+			{ "chance": 0.38, "name": "Wave of Light Syncytium" }
+		],
+		"dropsFrom": "Kingston (Normal) - Defend Albion resource",
+		"useIn": "Grave Walker"
+	},
+	"005": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Executor Nano Tube" },
+			{ "chance": 0.15, "name": "Ajax Cells" },
+			{ "chance": 0.38, "name": "Python Fiber" },
+			{
+				"chance": 0.38,
+				"name": "The Final Masterpiece Syncytium"
+			}
+		],
+		"dropsFrom": "Kingston (Normal) - Defend Albion resource",
+		"useIn": "Grave Walker"
+	},
+	"006": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Ultimate Lepic Spiral" },
+			{ "chance": 0.15, "name": "Smithereens Code" },
+			{ "chance": 0.38, "name": "Restored Relic Syncytium" },
+			{ "chance": 0.38, "name": "Valby Code" }
+		],
+		"dropsFrom": "Sterile Land (Normal) - Rockfall: Vulgus Strategic Outpost",
+		"useIn": "Sterile Land (Normal) - Rockfall: Void Fusion Reactor"
+	},
+	"007": {
+		"drops": [
+			{ "chance": 0.03, "name": "Kyle Code" },
+			{ "chance": 0.06, "name": "Python Nano Tube" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Syncytium"
+			},
+			{ "chance": 0.38, "name": "Albion Cavalry Gun Code" }
+		],
+		"dropsFrom": "Sterile Land (Normal) - The Repository: Vulgus Strategic Outpost",
+		"useIn": "Sterile Land (Normal) - The Repository: Void Fusion Reactor"
+	},
+	"008": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{
+				"chance": 0.06,
+				"name": "Kings Guard Lance Syncytium"
+			},
+			{
+				"chance": 0.15,
+				"name": "Gregs Reversed Fate Syncytium"
+			},
+			{ "chance": 0.38, "name": "Viessa Spiral" },
+			{ "chance": 0.38, "name": "Piercing Light Syncytium" }
+		],
+		"dropsFrom": "Sterile Land (Normal) - Classified Area: Vulgus Strategic Outpost",
+		"useIn": "Sterile Land (Normal) - Restriction Zone: Void Fusion Reactor"
+	},
+	"009": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Bunny Cells" },
+			{
+				"chance": 0.06,
+				"name": "Kings Guard Lance Fiber"
+			},
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Valby Spiral" },
+			{ "chance": 0.38, "name": "Python Fiber" }
+		],
+		"dropsFrom": "Sterile Land (Normal) - The Forgottense",
+		"useIn": "Stunning Beauty"
+	},
+	"010": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Blue Beetle Syncytium" },
+			{ "chance": 0.15, "name": "Lepic Spiral" },
+			{ "chance": 0.38, "name": "Nazeistras Devotion Code" },
+			{ "chance": 0.38, "name": "Divine Punishment Fiber" }
+		],
+		"dropsFrom": "Sterile Land (Normal) - Unknown Laboratory",
+		"useIn": "Stunning Beauty"
+	},
+	"011 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Valby Cells" },
+			{
+				"chance": 0.06,
+				"name": "Divine Punishment Syncytium"
+			},
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Enzo Spiral" },
+			{ "chance": 0.38, "name": "The Final Masterpiece Nano Tube" }
+		],
+		"dropsFrom": "Sterile Land (Normal) - Block Kuiper Mining",
+		"useIn": "Stunning Beauty"
+	},
+	"012": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Enduring Legacy Fiber" },
+			{ "chance": 0.15, "name": "Lepic Cells" },
+			{ "chance": 0.38, "name": "Gregs Reversed Fate Code" },
+			{ "chance": 0.38, "name": "Gley Cells" }
+		],
+		"dropsFrom": "Sterile Land (Normal) - Block Kuiper Mining",
+		"useIn": "Stunning Beauty"
+	},
+	"013": {
+		"drops": [
+			{ "chance": 0.03, "name": "Lepic Code" },
+			{ "chance": 0.06, "name": "Gley Stabilizer" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{
+				"chance": 0.38,
+				"name": "Kings Guard Lance Fiber"
+			},
+			{
+				"chance": 0.38,
+				"name": "The Final Masterpiece Fiber"
+			}
+		],
+		"dropsFrom": "Vespers (Normal) - Lumber Yard: Vulgus Strategic Outpost",
+		"useIn": "Vespers (Normal) - The Ruins: Void Fusion Reactor"
+	},
+	"014": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Perforator Code" },
+			{ "chance": 0.15, "name": "Divine Punishment Code" },
+			{ "chance": 0.38, "name": "Viessa Stabilizer" },
+			{ "chance": 0.38, "name": "Smithereens Nano Tube" }
+		],
+		"dropsFrom": "Vespers (Normal) - Lost Supply Depot: Vulgus Strategic Outpost",
+		"useIn": "Vespers (Normal) - Lost Supply Depot: Void Fusion Reactor"
+	},
+	"015 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Esiemo Spiral" },
+			{ "chance": 0.06, "name": "Restored Relic Syncytium" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Luna Spiral" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Nano Tube"
+			}
+		],
+		"dropsFrom": "Vespers (Normal) - Moonlight Lake: Vulgus Strategic Outpost",
+		"useIn": "Vespers (Normal) - Moonlight Lake: Void Fusion Reactor"
+	},
+	"016": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Secret Garden Syncytium" },
+			{ "chance": 0.15, "name": "Wave of Light Fiber" },
+			{
+				"chance": 0.38,
+				"name": "Albion Cavalry Gun Syncytium"
+			},
+			{ "chance": 0.38, "name": "Valby Cells" }
+		],
+		"dropsFrom": "Vespers (Normal) - Sepulcher",
+		"useIn": "Executioner"
+	},
+	"017 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Bunny Spiral" },
+			{ "chance": 0.06, "name": "Kyle Stabilizer" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Luna Cells" },
+			{ "chance": 0.38, "name": "Smithereens Code" }
+		],
+		"dropsFrom": "Vespers (Normal) - The Shelter",
+		"useIn": "Executioner"
+	},
+	"018": {
+		"drops": [
+			{ "chance": 0.03, "name": "Perforator Fiber" },
+			{ "chance": 0.06, "name": "Viessa Code" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "The Final Masterpiece Code" },
+			{
+				"chance": 0.38,
+				"name": "Gregs Reversed Fate Nano Tube"
+			}
+		],
+		"dropsFrom": "Vespers (Normal) - Neutralize Void Experiment",
+		"useIn": "Executioner"
+	},
+	"019": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Ajax Code" },
+			{ "chance": 0.15, "name": "Piercing Light Code" },
+			{ "chance": 0.38, "name": "Blue Beetle Nano Tube" },
+			{ "chance": 0.38, "name": "Lepic Stabilizer" }
+		],
+		"dropsFrom": "Vespers (Normal) - Neutralize Void Experiment",
+		"useIn": "Executioner"
+	},
+	"020 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Luna Stabilizer" },
+			{ "chance": 0.15, "name": "Restored Relic Fiber" },
+			{ "chance": 0.38, "name": "Valby Stabilizer" },
+			{ "chance": 0.38, "name": "Albion Cavalry Gun Fiber" }
+		],
+		"dropsFrom": "Echo Swamp (Normal) - Muskeg Swamp: Vulgus Strategic Outpost",
+		"useIn": "Echo Swamp (Normal) - Musket Swamp: Void Fusion Reactor"
+	},
+	"021": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Lepic Code" },
+			{ "chance": 0.06, "name": "Piercing Light Fiber" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Fiber"
+			},
+			{ "chance": 0.38, "name": "Enzo Spiral" }
+		],
+		"dropsFrom": "Echo Swamp (Normal) - Derelict Covert: Vulgus Strategic Outpost",
+		"useIn": "Echo Swamp (Normal) - Derelict Covert: Void Fusion Reactor"
+	},
+	"022": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Esiemo Cells" },
+			{ "chance": 0.15, "name": "Divine Punishment Nano Tube" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Nano Tube"
+			},
+			{ "chance": 0.38, "name": "Smithereens Nano Tube" }
+		],
+		"dropsFrom": "Echo Swamp (Normal) - Seed Vault",
+		"useIn": "Dead Bride"
+	},
+	"023 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Blue Beetle Code" },
+			{ "chance": 0.06, "name": "Ultimate Valby Spiral" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Restored Relic Nano Tube" },
+			{
+				"chance": 0.38,
+				"name": "Gregs Reversed Fate Fiber"
+			}
+		],
+		"dropsFrom": "Echo Swamp (Normal) - The Chapel",
+		"useIn": "Dead Bride"
+	},
+	"024": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Bunny Stabilizer" },
+			{ "chance": 0.06, "name": "Viessa Stabilizer" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Smithereens Fiber" },
+			{ "chance": 0.38, "name": "Nazeistras Devotion Code" }
+		],
+		"dropsFrom": "Echo Swamp (Normal) - Defend Albion resource",
+		"useIn": "Dead Bride"
+	},
+	"025": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Python Code" },
+			{ "chance": 0.15, "name": "Blue Beetle Fiber" },
+			{ "chance": 0.38, "name": "Enzo Code" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Fiber"
+			}
+		],
+		"dropsFrom": "Echo Swamp (Normal) - Defend Albion resource",
+		"useIn": "Dead Bride"
+	},
+	"026": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Ultimate Lepic Cells" },
+			{ "chance": 0.15, "name": "Afterglow Sword Fiber" },
+			{ "chance": 0.38, "name": "Blue Beetle Nano Tube" },
+			{ "chance": 0.38, "name": "Valby Spiral" }
+		],
+		"dropsFrom": "Agna Desert (Normal) - Vermillion Waste: Vulgus Strategic Outpost",
+		"useIn": "Agna Desert (Normal) - Vermillion Waste: Void Fusion Reactor"
+	},
+	"027 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Luna Code" },
+			{ "chance": 0.06, "name": "Smithereens Syncytium" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Ajax Cells" },
+			{
+				"chance": 0.38,
+				"name": "Albion Cavalry Gun Syncytium"
+			}
+		],
+		"dropsFrom": "Agna Desert (Normal) - The Storage: Vulgus Strategic Outpost",
+		"useIn": "Agna Desert (Normal) - The Storage: Void Fusion Reactor"
+	},
+	"028": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Gley Spiral" },
+			{
+				"chance": 0.15,
+				"name": "Gregs Reversed Fate Nano Tube"
+			},
+			{ "chance": 0.38, "name": "Smithereens Code" },
+			{ "chance": 0.38, "name": "Enzo Cells" }
+		],
+		"dropsFrom": "Agna Desert (Normal) - Miragestone: Vulgus Strategic Outpost",
+		"useIn": "Agna Desert (Normal) - Miragestone Deposit: Void Fusion Reactor"
+	},
+	"029": {
+		"drops": [
+			{ "chance": 0.03, "name": "Secret Garden Fiber" },
+			{ "chance": 0.06, "name": "Python Syncytium" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Valby Stabilizer" },
+			{
+				"chance": 0.38,
+				"name": "Gregs Reversed Fate Syncytium"
+			}
+		],
+		"dropsFrom": "Agna Desert (Normal) - The Asylum",
+		"useIn": "Devourer"
+	},
+	"030 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Ultimate Valby Stabilizer" },
+			{ "chance": 0.15, "name": "Viessa Code" },
+			{
+				"chance": 0.38,
+				"name": "Albion Cavalry Gun Fiber"
+			},
+			{ "chance": 0.38, "name": "The Final Masterpiece Code" }
+		],
+		"dropsFrom": "Agna Desert (Normal) - Caligo Ossuary",
+		"useIn": "Devourer"
+	},
+	"031": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ajax Spiral" },
+			{ "chance": 0.06, "name": "Executor Syncytium" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "The Final Masterpiece Code" },
+			{ "chance": 0.38, "name": "Albion Cavalry Gun Code" }
+		],
+		"dropsFrom": "Agna Desert (Normal) - Neutralize Void Experiment",
+		"useIn": "Devourer"
+	},
+	"032": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Wave of Light Code" },
+			{ "chance": 0.15, "name": "Secret Garden Code" },
+			{ "chance": 0.38, "name": "Valby Code" },
+			{ "chance": 0.38, "name": "Restored Relic Nano Tube" }
+		],
+		"dropsFrom": "Agna Desert (Normal) - Neutralize Void Experiment",
+		"useIn": "Devourer"
+	},
+	"033": {
+		"drops": [
+			{ "chance": 0.03, "name": "Yujin Spiral" },
+			{ "chance": 0.06, "name": "Restored Relic Code" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Valby Cells" },
+			{ "chance": 0.38, "name": "Piercing Light Syncytium" }
+		],
+		"dropsFrom": "White-night Gulch (Normal) - The Mountaintops: Vulgus Strategic Outpost",
+		"useIn": "White-night Gulch (Normal) - The Mountaintops: Void Fusion Reactor"
+	},
+	"034": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Secret Garden Syncytium" },
+			{
+				"chance": 0.15,
+				"name": "The Final Masterpiece Syncytium"
+			},
+			{
+				"chance": 0.38,
+				"name": "Gregs Reversed Fate Fiber"
+			},
+			{ "chance": 0.38, "name": "Viessa Cells" }
+		],
+		"dropsFrom": "White-night Gulch (Normal) - Shipment Base: Vulgus Strategic Outpost",
+		"useIn": "White-night Gulch (Normal) - Observatory: Void Fusion Reactor"
+	},
+	"035": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Ajax Cells" },
+			{ "chance": 0.06, "name": "Blue Beetle Fiber" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Enzo Code" },
+			{ "chance": 0.38, "name": "Kings Guard Lance Nano Tube" }
+		],
+		"dropsFrom": "White-night Gulch (Normal) - Hatchery: Vulgus Strategic Outpost",
+		"useIn": "White-night Gulch (Normal) - Hatchery: Void Fusion Reactor"
+	},
+	"036": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Executor Nano Tube" },
+			{ "chance": 0.15, "name": "Valby Code" },
+			{ "chance": 0.38, "name": "Divine Punishment Nano Tube" },
+			{ "chance": 0.38, "name": "Smithereens Syncytium" }
+		],
+		"dropsFrom": "White-night Gulch (Normal) - Mystery's End",
+		"useIn": "Pyromaniac"
+	},
+	"037": {
+		"drops": [
+			{ "chance": 0.03, "name": "Executor Code" },
+			{ "chance": 0.06, "name": "Albion Cavalry Gun Code" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Restored Relic Fiber" },
+			{ "chance": 0.38, "name": "Enzo Spiral" }
+		],
+		"dropsFrom": "White-night Gulch (Normal) - Bio Lab",
+		"useIn": "Pyromaniac"
+	},
+	"038 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Viessa Code" },
+			{ "chance": 0.06, "name": "Perforator Nano Tube" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{
+				"chance": 0.38,
+				"name": "Divine Punishment Syncytium"
+			},
+			{ "chance": 0.38, "name": "Luna Cells" }
+		],
+		"dropsFrom": "White-night Gulch (Normal) - Block Kuiper mining",
+		"useIn": "Pyromaniac"
+	},
+	"039": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Clairvoyance Fiber" },
+			{ "chance": 0.15, "name": "Python Nano Tube" },
+			{ "chance": 0.38, "name": "Enzo Stabilizer" },
+			{ "chance": 0.38, "name": "Wave of Light Nano Tube" }
+		],
+		"dropsFrom": "White-night Gulch (Normal) - Block Kuiper mining",
+		"useIn": "Pyromaniac"
+	},
+	"040": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Kings Guard Lance Code" },
+			{ "chance": 0.15, "name": "Piercing Light Nano Tube" },
+			{ "chance": 0.38, "name": "Restored Relic Syncytium" },
+			{ "chance": 0.38, "name": "Enzo Stabilizer" }
+		],
+		"dropsFrom": "Hagios (Normal) - Dune Base: Vulgus Strategic Outpost",
+		"useIn": "Hagios (Normal) - Dune Base: Void Fusion Reactor"
+	},
+	"041": {
+		"drops": [
+			{ "chance": 0.03, "name": "Kyle Cells" },
+			{ "chance": 0.06, "name": "Clairvoyance Nano Tube" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Syncytium"
+			},
+			{ "chance": 0.38, "name": "Restored Relic Fiber" }
+		],
+		"dropsFrom": "Hagios (Normal) - The Corrupted Zone: Vulgus Strategic Outpost",
+		"useIn": "Hagios (Normal) - The Corrupted Zone: Void Fusion Reactor"
+	},
+	"042": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Blue Beetle Syncytium" },
+			{
+				"chance": 0.15,
+				"name": "Albion Cavalry Gun Fiber"
+			},
+			{ "chance": 0.38, "name": "Valby Stabilizer" },
+			{
+				"chance": 0.38,
+				"name": "The Final Masterpiece Fiber"
+			}
+		],
+		"dropsFrom": "Hagios (Normal) - Forward Base: Vulgus Strategic Outpost",
+		"useIn": "Hagios (Normal) - Fractured Monolith: Void Fusion Reactor"
+	},
+	"043": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Viessa Stabilizer" },
+			{ "chance": 0.06, "name": "Lepic Spiral" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Albion Cavalry Gun Nano Tube" },
+			{ "chance": 0.38, "name": "Restored Relic Code" }
+		],
+		"dropsFrom": "Hagios (Normal) - The Haven",
+		"useIn": "Swamp Walker"
+	},
+	"044 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Ultimate Valby Cells" },
+			{ "chance": 0.15, "name": "Python Syncytium" },
+			{
+				"chance": 0.38,
+				"name": "The Final Masterpiece Syncytium"
+			},
+			{ "chance": 0.38, "name": "Gregs Reversed Fate Code" }
+		],
+		"dropsFrom": "Hagios (Normal) - Old Mystery",
+		"useIn": "Swamp Walker"
+	},
+	"045": {
+		"drops": [
+			{ "chance": 0.03, "name": "Yujin Cells" },
+			{ "chance": 0.06, "name": "Jayber Spiral" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Kings Guard Lance Nano Tube" },
+			{
+				"chance": 0.38,
+				"name": "Gregs Reversed Fate Syncytium"
+			}
+		],
+		"dropsFrom": "Hagios (Normal) - Neutralize Void Experiment",
+		"useIn": "Swamp Walker"
+	},
+	"046": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Executor Fiber" },
+			{ "chance": 0.15, "name": "Divine Punishment Code" },
+			{ "chance": 0.38, "name": "Restored Relic Nano Tube" },
+			{ "chance": 0.38, "name": "Viessa Spiral" }
+		],
+		"dropsFrom": "Hagios (Normal) - Neutralize Void Experiment",
+		"useIn": "Swamp Walker"
+	},
+	"047": {
+		"drops": [
+			{ "chance": 0.03, "name": "Jayber Code" },
+			{ "chance": 0.06, "name": "Smithereens Syncytium" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Gley Stabilizer" },
+			{ "chance": 0.38, "name": "Piercing Light Code" }
+		],
+		"dropsFrom": "Fortress (Normal) - Frozen Valley: Vulgus Strategic Outpost",
+		"useIn": "Fortress (Normal) - Frozen Valley: Void Fusion Reactor"
+	},
+	"048": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{
+				"chance": 0.06,
+				"name": "Kings Guard Lance Syncytium"
+			},
+			{ "chance": 0.15, "name": "Divine Punishment Fiber" },
+			{ "chance": 0.38, "name": "Wave of Light Syncytium" },
+			{ "chance": 0.38, "name": "Valby Cells" }
+		],
+		"dropsFrom": "Fortress (Normal) - Converter Facility: Vulgus Strategic Outpost",
+		"useIn": "Fortress (Normal) - Fallen Ark: Void Fusion Reactor"
+	},
+	"049 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Perforator Syncytium" },
+			{ "chance": 0.06, "name": "Ajax Stabilizer" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Gregs Reversed Fate Code" },
+			{ "chance": 0.38, "name": "Luna Spiral" }
+		],
+		"dropsFrom": "Fortress (Normal) - Defense Line: Vulgus Strategic Outpost",
+		"useIn": "Fortress (Normal) - Defense Line: Void Fusion Reactor"
+	},
+	"050": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Gley Spiral" },
+			{ "chance": 0.15, "name": "Enzo Cells" },
+			{
+				"chance": 0.38,
+				"name": "Nazeistras Devotion Nano Tube"
+			},
+			{ "chance": 0.38, "name": "The Final Masterpiece Nano Tube" }
+		],
+		"dropsFrom": "Fortress (Normal) - Quarantinze Zone",
+		"useIn": "Hanged Man"
+	},
+	"051": {
+		"drops": [
+			{ "chance": 0.03, "name": "Clairvoyance Syncytium" },
+			{ "chance": 0.06, "name": "Enzo Stabilizer" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{
+				"chance": 0.38,
+				"name": "Albion Cavalry Gun Syncytium"
+			},
+			{
+				"chance": 0.38,
+				"name": "Gregs Reversed Fate Nano Tube"
+			}
+		],
+		"dropsFrom": "Fortress (Normal) - Heart of the Fortress",
+		"useIn": "Hanged Man"
+	},
+	"052 AA": {
+		"drops": [
+			{ "chance": 0.03, "name": "Ultimate Bunny Code" },
+			{ "chance": 0.06, "name": "Ultimate Valby Spiral" },
+			{ "chance": 0.15, "name": "Crystal" },
+			{ "chance": 0.38, "name": "Wave of Light Nano Tube" },
+			{
+				"chance": 0.38,
+				"name": "The Final Masterpiece Fiber"
+			}
+		],
+		"dropsFrom": "Fortress (Normal) - Defend Albion resources",
+		"useIn": "Hanged Man"
+	},
+	"053": {
+		"drops": [
+			{ "chance": 0.03, "name": "Energy" },
+			{ "chance": 0.06, "name": "Enduring Legacy Nano Tube" },
+			{ "chance": 0.15, "name": "Piercing Light Fiber" },
+			{ "chance": 0.38, "name": "Enzo Code" },
+			{ "chance": 0.38, "name": "Gley Cells" }
+		],
+		"dropsFrom": "Fortress (Normal) - Defend Albion resources",
+		"useIn": "Hanged Man"
+	},
+	"054": {
+		"drops": [
+			{ "chance": 0.06, "name": "Esiemo Code" },
+			{ "chance": 0.1, "name": "Kyle Cells" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Python Syncytium" },
+			{ "chance": 0.32, "name": "Secret Garden Code" }
+		],
+		"dropsFrom": "Kingston (Hard) - Fallen Theater: Vulgus Strategic Outpost",
+		"useIn": "Kingston (Hard) - Grand Square: Void Fusion Reactor"
+	},
+	"055 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Kyle Spiral" },
+			{ "chance": 0.2, "name": "Jayber Cells" },
+			{ "chance": 0.32, "name": "Executor Code" },
+			{ "chance": 0.32, "name": "Ultimate Valby Stabilizer" }
+		],
+		"dropsFrom": "Kingston (Hard) - Fallen Theater: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Kingston (Hard) - Grand Square: Void Fusion Reactor"
+	},
+	"056": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Viessa Cells" },
+			{ "chance": 0.1, "name": "Afterglow Sword Nano Tube" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Lepic Stabilizer" },
+			{ "chance": 0.32, "name": "Smithereens Code" }
+		],
+		"dropsFrom": "Kingston (Hard) - Magister Lab",
+		"useIn": "(Hard): Executioner"
+	},
+	"057": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Ajax Cells" },
+			{ "chance": 0.2, "name": "Yujin Spiral" },
+			{ "chance": 0.32, "name": "Kings Guard Lance Code" },
+			{ "chance": 0.32, "name": "Clairvoyance Syncytium" }
+		],
+		"dropsFrom": "Kingston (Hard) - Magister Lab",
+		"useIn": "(Hard): Executioner"
+	},
+	"058": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Code" },
+			{ "chance": 0.1, "name": "Clairvoyance Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Kyle Stabilizer" },
+			{ "chance": 0.32, "name": "Piercing Light Nano Tube" }
+		],
+		"dropsFrom": "Kingston (Hard) - Slumber Valley",
+		"useIn": "(Hard): Executioner"
+	},
+	"059": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Enduring Legacy Code" },
+			{ "chance": 0.2, "name": "Ultimate Lepic Stabilizer" },
+			{ "chance": 0.32, "name": "Python Nano Tube" },
+			{ "chance": 0.32, "name": "Esiemo Cells" }
+		],
+		"dropsFrom": "Kingston (Hard) - Slumber Valley",
+		"useIn": "(Hard): Executioner"
+	},
+	"060": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Cells" },
+			{ "chance": 0.1, "name": "Perforator Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Ajax Cells" },
+			{ "chance": 0.32, "name": "Clairvoyance Nano Tube" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - Rockfall: Vulgus Strategic Outpost",
+		"useIn": "Sterile Land (Hard) - Rockfall: Void Fusion Reactor"
+	},
+	"061": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Lepic Code" },
+			{ "chance": 0.2, "name": "Esiemo Spiral" },
+			{ "chance": 0.32, "name": "Secret Garden Fiber" },
+			{
+				"chance": 0.32,
+				"name": "Nazeistras Devotion Syncytium"
+			}
+		],
+		"dropsFrom": "Sterile Land (Hard) - Rockfall: Vulgus Strategic Outpost(Successful Infiltration)",
+		"useIn": "Sterile Land (Hard) - Rockfall: Void Fusion Reactor"
+	},
+	"062": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Stabilizer" },
+			{ "chance": 0.1, "name": "Restored Relic Nano Tube" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Afterglow Sword Syncytium" },
+			{ "chance": 0.32, "name": "Jayber Stabilizer" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - The Repository: Vulgus Strategic Outpost",
+		"useIn": "Sterile Land (Hard) - The Repository: Void Fusion Reactor"
+	},
+	"063": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Valby Code" },
+			{ "chance": 0.2, "name": "Kyle Cells" },
+			{ "chance": 0.32, "name": "Wave of Light Fiber" },
+			{ "chance": 0.32, "name": "Python Code" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - The Repository: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Sterile Land (Hard) - The Repository: Void Fusion Reactor"
+	},
+	"064": {
+		"drops": [
+			{ "chance": 0.06, "name": "Yujin Code" },
+			{ "chance": 0.1, "name": "Gregs Reversed Fate Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Kings Guard Lance Nano Tube" },
+			{ "chance": 0.32, "name": "Lepic Cells" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - Classified Area: Vulgus Strategic Outpost",
+		"useIn": "Sterile Land (Hard) - Restriction Zone: Void Fusion Reactor"
+	},
+	"065": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Yujin Stabilizer" },
+			{ "chance": 0.2, "name": "Jayber Code" },
+			{ "chance": 0.32, "name": "Perforator Syncytium" },
+			{ "chance": 0.32, "name": "Enduring Legacy Nano Tube" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - Classified Area: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Sterile Land (Hard) - Restriction Zone: Void Fusion Reactor"
+	},
+	"066": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Code" },
+			{ "chance": 0.1, "name": "Afterglow Sword Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Gley Cells" },
+			{ "chance": 0.32, "name": "Albion Cavalry Gun Fiber" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - The Forgottense",
+		"useIn": "(Hard): Dead Bride"
+	},
+	"067": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Esiemo Stabilizer" },
+			{ "chance": 0.2, "name": "Ajax Spiral" },
+			{ "chance": 0.32, "name": "Enduring Legacy Fiber" },
+			{ "chance": 0.32, "name": "Executor Syncytium" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - The Forgottense",
+		"useIn": "(Hard): Dead Bride"
+	},
+	"068 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Code" },
+			{
+				"chance": 0.1,
+				"name": "The Final Masterpiece Fiber"
+			},
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Wave of Light Syncytium" },
+			{ "chance": 0.32, "name": "Luna Stabilizer" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - Unknown Laboratory",
+		"useIn": "(Hard): Dead Bride, Gluttony"
+	},
+	"069": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Lepic Spiral" },
+			{ "chance": 0.2, "name": "Gley Code" },
+			{ "chance": 0.32, "name": "Perforator Fiber" },
+			{ "chance": 0.32, "name": "Blue Beetle Code" }
+		],
+		"dropsFrom": "Sterile Land (Hard) - Unknown Laboratory",
+		"useIn": "(Hard): Dead Bride"
+	},
+	"070": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Viessa Spiral" },
+			{ "chance": 0.1, "name": "Ajax Spiral" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Blue Beetle Syncytium" },
+			{ "chance": 0.32, "name": "Executor Fiber" }
+		],
+		"dropsFrom": "Vespers (Hard) - Lumber Yard: Vulgus Strategic Outpost",
+		"useIn": "Vespers (Hard) - The Ruins: Void Fusion Reactor"
+	},
+	"071 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Yujin Spiral" },
+			{ "chance": 0.2, "name": "Luna Spiral" },
+			{ "chance": 0.32, "name": "Afterglow Sword Fiber" },
+			{ "chance": 0.32, "name": "Python Code" }
+		],
+		"dropsFrom": "Vespers (Hard) - Lumber Yard: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Vespers (Hard) - The Ruins: Void Fusion Reactor"
+	},
+	"072": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Spiral" },
+			{ "chance": 0.1, "name": "Lepic Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Wave of Light Nano Tube" },
+			{
+				"chance": 0.32,
+				"name": "Gregs Reversed Fate Fiber"
+			}
+		],
+		"dropsFrom": "Vespers (Hard) - Lost Supply Depot: Vulgus Strategic Outpost",
+		"useIn": "Vespers (Hard) - Lost Supply Depot: Void Fusion Reactor"
+	},
+	"073 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Bunny Cells" },
+			{ "chance": 0.2, "name": "Ultimate Valby Spiral" },
+			{ "chance": 0.32, "name": "Divine Punishment Nano Tube" },
+			{ "chance": 0.32, "name": "Perforator Nano Tube" }
+		],
+		"dropsFrom": "Vespers (Hard) - Lost Supply Depot: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Vespers (Hard) - Lost Supply Depot: Void Fusion Reactor"
+	},
+	"074": {
+		"drops": [
+			{ "chance": 0.06, "name": "Esiemo Code" },
+			{ "chance": 0.1, "name": "Secret Garden Nano Tube" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Ultimate Lepic Cells" },
+			{ "chance": 0.32, "name": "Piercing Light Code" }
+		],
+		"dropsFrom": "Vespers (Hard) - Moonlight Lake: Vulgus Strategic Outpost",
+		"useIn": "Vespers (Hard) - Moonlight Lake: Void Fusion Reactor"
+	},
+	"075": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Viessa Code" },
+			{ "chance": 0.2, "name": "Ajax Code" },
+			{
+				"chance": 0.32,
+				"name": "Nazeistras Devotion Nano Tube"
+			},
+			{
+				"chance": 0.32,
+				"name": "Kings Guard Lance Fiber"
+			}
+		],
+		"dropsFrom": "Vespers (Hard) - Moonlight Lake: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Vespers (Hard) - Moonlight Lake: Void Fusion Reactor"
+	},
+	"076": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Stabilizer" },
+			{ "chance": 0.1, "name": "Enduring Legacy Syncytium" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Wave of Light Code" },
+			{ "chance": 0.32, "name": "Kyle Stabilizer" }
+		],
+		"dropsFrom": "Vespers (Hard) - Sepulcher",
+		"useIn": "(Hard): Devourer"
+	},
+	"077": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Esiemo Stabilizer" },
+			{ "chance": 0.2, "name": "Ultimate Lepic Cells" },
+			{ "chance": 0.32, "name": "Executor Syncytium" },
+			{ "chance": 0.32, "name": "Blue Beetle Fiber" }
+		],
+		"dropsFrom": "Vespers (Hard) - Sepulcher",
+		"useIn": "(Hard): Devourer"
+	},
+	"078": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Code" },
+			{ "chance": 0.1, "name": "Smithereens Syncytium" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Gley Spiral" },
+			{ "chance": 0.32, "name": "Enduring Legacy Fiber" }
+		],
+		"dropsFrom": "Vespers (Hard) - The Shelter",
+		"useIn": "(Hard): Devourer"
+	},
+	"079": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Yujin Stabilizer" },
+			{ "chance": 0.2, "name": "Afterglow Sword Code" },
+			{ "chance": 0.32, "name": "Lepic Spiral" },
+			{
+				"chance": 0.32,
+				"name": "Albion Cavalry Gun Syncytium"
+			}
+		],
+		"dropsFrom": "Vespers (Hard) - The Shelter",
+		"useIn": "(Hard): Devourer"
+	},
+	"080": {
+		"drops": [
+			{ "chance": 0.06, "name": "Yujin Code" },
+			{ "chance": 0.1, "name": "Perforator Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Lepic Cells" },
+			{ "chance": 0.32, "name": "Executor Nano Tube" }
+		],
+		"dropsFrom": "Echo Swamp (Hard) - Muskeg Swamp: Vulgus Strategic Outpost",
+		"useIn": "Echo Swamp (Hard) - Musket Swamp: Void Fusion Reactor"
+	},
+	"081 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Luna Cells" },
+			{ "chance": 0.2, "name": "Afterglow Sword Nano Tube" },
+			{ "chance": 0.32, "name": "Enzo Stabilizer" },
+			{
+				"chance": 0.32,
+				"name": "Kings Guard Lance Syncytium"
+			}
+		],
+		"dropsFrom": "Echo Swamp (Hard) - Muskeg Swamp: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Echo Swamp (Hard) - Musket Swamp: Void Fusion Reactor"
+	},
+	"082": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Bunny Code" },
+			{ "chance": 0.1, "name": "Kyle Cells" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Secret Garden Syncytium" },
+			{ "chance": 0.32, "name": "Executor Code" }
+		],
+		"dropsFrom": "Echo Swamp (Hard) - Derelict Covert: Vulgus Strategic Outpost",
+		"useIn": "Echo Swamp (Hard) - Derelict Covert: Void Fusion Reactor"
+	},
+	"083": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Viessa Code" },
+			{ "chance": 0.2, "name": "Enduring Legacy Syncytium" },
+			{ "chance": 0.32, "name": "Gley Stabilizer" },
+			{ "chance": 0.32, "name": "Albion Cavalry Gun Code" }
+		],
+		"dropsFrom": "Echo Swamp (Hard) - Derelict Covert: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Echo Swamp (Hard) - Derelict Covert: Void Fusion Reactor"
+	},
+	"084": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Cells" },
+			{ "chance": 0.1, "name": "Clairvoyance Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Viessa Spiral" },
+			{
+				"chance": 0.32,
+				"name": "Divine Punishment Syncytium"
+			}
+		],
+		"dropsFrom": "Echo Swamp (Hard) - Seed Vault",
+		"useIn": "(Hard): Pyromaniac"
+	},
+	"085": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Lepic Spiral" },
+			{ "chance": 0.2, "name": "Yujin Cells" },
+			{ "chance": 0.32, "name": "Secret Garden Code" },
+			{ "chance": 0.32, "name": "Smithereens Fiber" }
+		],
+		"dropsFrom": "Echo Swamp (Hard) - Seed Vault",
+		"useIn": "(Hard): Pyromaniac"
+	},
+	"086": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Viessa Cells" },
+			{ "chance": 0.1, "name": "Valby Stabilizer" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Blue Beetle Code" },
+			{ "chance": 0.32, "name": "Restored Relic Code" }
+		],
+		"dropsFrom": "Echo Swamp (Hard) - The Chapel",
+		"useIn": "(Hard): Pyromaniac"
+	},
+	"087 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Valby Code" },
+			{ "chance": 0.2, "name": "Ultimate Bunny Spiral" },
+			{ "chance": 0.32, "name": "Wave of Light Code" },
+			{ "chance": 0.32, "name": "Enduring Legacy Nano Tube" }
+		],
+		"dropsFrom": "Echo Swamp (Hard) - The Chapel",
+		"useIn": "(Hard): Pyromaniac"
+	},
+	"088": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Code" },
+			{ "chance": 0.1, "name": "Secret Garden Nano Tube" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Ajax Stabilizer" },
+			{ "chance": 0.32, "name": "Python Syncytium" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - Vermillion Waste: Vulgus Strategic Outpost",
+		"useIn": "Agna Desert (Hard) - Vermillion Waste: Void Fusion Reactor"
+	},
+	"089": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Lepic Code" },
+			{ "chance": 0.2, "name": "Jayber Spiral" },
+			{ "chance": 0.32, "name": "Afterglow Sword Fiber" },
+			{ "chance": 0.32, "name": "Divine Punishment Code" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - Vermillion Waste: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Agna Desert (Hard) - Vermillion Waste: Void Fusion Reactor"
+	},
+	"090 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Esiemo Code" },
+			{ "chance": 0.1, "name": "Luna Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Executor Nano Tube" },
+			{
+				"chance": 0.32,
+				"name": "Kings Guard Lance Syncytium"
+			}
+		],
+		"dropsFrom": "Agna Desert (Hard) - The Storage: Vulgus Strategic Outpost",
+		"useIn": "Agna Desert (Hard) - The Storage: Void Fusion Reactor"
+	},
+	"091": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Viessa Stabilizer" },
+			{ "chance": 0.2, "name": "Jayber Cells" },
+			{ "chance": 0.32, "name": "Perforator Nano Tube" },
+			{ "chance": 0.32, "name": "Piercing Light Fiber" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - The Storage: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Agna Desert (Hard) - The Storage: Void Fusion Reactor"
+	},
+	"092": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Stabilizer" },
+			{ "chance": 0.1, "name": "Jayber Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Blue Beetle Syncytium" },
+			{ "chance": 0.32, "name": "Clairvoyance Nano Tube" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - Miragestone: Vulgus Strategic Outpost",
+		"useIn": "Agna Desert (Hard) - Miragestone Deposit: Void Fusion Reactor"
+	},
+	"093": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Enzo Code" },
+			{ "chance": 0.2, "name": "Gley Code" },
+			{ "chance": 0.32, "name": "Smithereens Nano Tube" },
+			{ "chance": 0.32, "name": "Wave of Light Fiber" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - Miragestone: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Agna Desert (Hard) - Miragestone Deposit: Void Fusion Reactor"
+	},
+	"094 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Spiral" },
+			{ "chance": 0.1, "name": "Afterglow Sword Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Luna Code" },
+			{ "chance": 0.32, "name": "Blue Beetle Fiber" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - The Asylum",
+		"useIn": "(Hard): Swamp Walker, Gluttony"
+	},
+	"095": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Yujin Stabilizer" },
+			{ "chance": 0.2, "name": "Viessa Code" },
+			{ "chance": 0.32, "name": "Clairvoyance Syncytium" },
+			{ "chance": 0.32, "name": "Divine Punishment Nano Tube" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - The Asylum",
+		"useIn": "(Hard): Swamp Walker"
+	},
+	"096": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Spiral" },
+			{ "chance": 0.1, "name": "Ajax Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Python Fiber" },
+			{ "chance": 0.32, "name": "The Final Masterpiece Nano Tube" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - Caligo Ossuary",
+		"useIn": "(Hard): Swamp Walker"
+	},
+	"097": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Enduring Legacy Code" },
+			{ "chance": 0.2, "name": "Enzo Cells" },
+			{ "chance": 0.32, "name": "Kings Guard Lance Code" },
+			{ "chance": 0.32, "name": "Viessa Cells" }
+		],
+		"dropsFrom": "Agna Desert (Hard) - Caligo Ossuary",
+		"useIn": "(Hard): Swamp Walker"
+	},
+	"098 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Spiral" },
+			{ "chance": 0.1, "name": "Luna Stabilizer" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Wave of Light Nano Tube" },
+			{ "chance": 0.32, "name": "Kings Guard Lance Nano Tube" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - The Mountaintops: Vulgus Strategic Outpost",
+		"useIn": "White-night Gulch (Hard) - The Mountaintops: Void Fusion Reactor"
+	},
+	"099": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Bunny Stabilizer" },
+			{ "chance": 0.2, "name": "Clairvoyance Code" },
+			{ "chance": 0.32, "name": "Secret Garden Fiber" },
+			{ "chance": 0.32, "name": "Gley Spiral" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - The Mountaintops: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "White-night Gulch (Hard) - The Mountaintops: Void Fusion Reactor"
+	},
+	"100": {
+		"drops": [
+			{ "chance": 0.06, "name": "Yujin Code" },
+			{ "chance": 0.1, "name": "Jayber Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Afterglow Sword Syncytium" },
+			{ "chance": 0.32, "name": "Executor Fiber" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Shipment Base: Vulgus Strategic Outpost",
+		"useIn": "White-night Gulch (Hard) - Observatory: Void Fusion Reactor"
+	},
+	"101": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Enduring Legacy Code" },
+			{ "chance": 0.2, "name": "Kyle Code" },
+			{ "chance": 0.32, "name": "Jayber Stabilizer" },
+			{ "chance": 0.32, "name": "Perforator Syncytium" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Shipment Base: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "White-night Gulch (Hard) - Observatory: Void Fusion Reactor"
+	},
+	"102": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Spiral" },
+			{ "chance": 0.1, "name": "Viessa Stabilizer" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Python Nano Tube" },
+			{ "chance": 0.32, "name": "Piercing Light Code" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Hatchery: Vulgus Strategic Outpost",
+		"useIn": "White-night Gulch (Hard) - Hatchery: Void Fusion Reactor"
+	},
+	"103": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Esiemo Stabilizer" },
+			{ "chance": 0.2, "name": "Ajax Code" },
+			{ "chance": 0.32, "name": "Blue Beetle Nano Tube" },
+			{ "chance": 0.32, "name": "Divine Punishment Fiber" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Hatchery: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "White-night Gulch (Hard) - Hatchery: Void Fusion Reactor"
+	},
+	"104": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Stabilizer" },
+			{ "chance": 0.1, "name": "Enduring Legacy Syncytium" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Executor Syncytium" },
+			{ "chance": 0.32, "name": "Esiemo Cells" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Mystery's End",
+		"useIn": "(Hard): Obstructer"
+	},
+	"105": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Kyle Spiral" },
+			{ "chance": 0.2, "name": "Ultimate Lepic Stabilizer" },
+			{
+				"chance": 0.32,
+				"name": "Gregs Reversed Fate Syncytium"
+			},
+			{ "chance": 0.32, "name": "Python Fiber" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Mystery's End",
+		"useIn": "(Hard): Obstructer"
+	},
+	"106": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Bunny Code" },
+			{ "chance": 0.1, "name": "Lepic Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Piercing Light Nano Tube" },
+			{ "chance": 0.32, "name": "Clairvoyance Fiber" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Bio-Lab",
+		"useIn": "(Hard): Obstructer"
+	},
+	"107": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Viessa Stabilizer" },
+			{ "chance": 0.2, "name": "Afterglow Sword Code" },
+			{ "chance": 0.32, "name": "Ajax Stabilizer" },
+			{ "chance": 0.32, "name": "Albion Cavalry Gun Nano Tube" }
+		],
+		"dropsFrom": "White-night Gulch (Hard) - Bio-Lab",
+		"useIn": "(Hard): Obstructer"
+	},
+	"108": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Viessa Spiral" },
+			{ "chance": 0.1, "name": "Secret Garden Nano Tube" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Lepic Cells" },
+			{ "chance": 0.32, "name": "Nazeistras Devotion Code" }
+		],
+		"dropsFrom": "Hagios (Hard) - Dune Base: Vulgus Strategic Outpost",
+		"useIn": "Hagios (Hard) - Dune Base: Void Fusion Reactor"
+	},
+	"109": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Kyle Code" },
+			{ "chance": 0.2, "name": "Esiemo Spiral" },
+			{ "chance": 0.32, "name": "Piercing Light Syncytium" },
+			{
+				"chance": 0.32,
+				"name": "Kings Guard Lance Fiber"
+			}
+		],
+		"dropsFrom": "Hagios (Hard) - Dune Base: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Hagios (Hard) - Dune Base: Void Fusion Reactor"
+	},
+	"110 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Valby Code" },
+			{ "chance": 0.1, "name": "Enzo Spiral" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Clairvoyance Nano Tube" },
+			{ "chance": 0.32, "name": "Restored Relic Fiber" }
+		],
+		"dropsFrom": "Hagios (Hard) - The Corrupted Zone: Vulgus Strategic Outpost",
+		"useIn": "Hagios (Hard) - The Corrupted Zone: Void Fusion Reactor"
+	},
+	"111": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Yujin Stabilizer" },
+			{ "chance": 0.2, "name": "Afterglow Sword Nano Tube" },
+			{ "chance": 0.32, "name": "Jayber Stabilizer" },
+			{ "chance": 0.32, "name": "Enduring Legacy Nano Tube" }
+		],
+		"dropsFrom": "Hagios (Hard) - The Corrupted Zone: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Hagios (Hard) - The Corrupted Zone: Void Fusion Reactor"
+	},
+	"112": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Stabilizer" },
+			{ "chance": 0.1, "name": "Valby Spiral" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "The Final Masterpiece Code" },
+			{ "chance": 0.32, "name": "Secret Garden Syncytium" }
+		],
+		"dropsFrom": "Hagios (Hard) - Forward Base: Vulgus Strategic Outpost",
+		"useIn": "Hagios (Hard) - Fractured Monolith: Void Fusion Reactor"
+	},
+	"113 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Bunny Cells" },
+			{ "chance": 0.2, "name": "Clairvoyance Code" },
+			{ "chance": 0.32, "name": "Perforator Nano Tube" },
+			{ "chance": 0.32, "name": "Ultimate Valby Stabilizer" }
+		],
+		"dropsFrom": "Hagios (Hard) - Forward Base: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Hagios (Hard) - Fractured Monolith: Void Fusion Reactor"
+	},
+	"114": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Viessa Cells" },
+			{ "chance": 0.1, "name": "Yujin Cells" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Secret Garden Code" },
+			{
+				"chance": 0.32,
+				"name": "Gregs Reversed Fate Nano Tube"
+			}
+		],
+		"dropsFrom": "Hagios (Hard) - The Haven",
+		"useIn": "(Hard): Frost Walker"
+	},
+	"115 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Viessa Stabilizer" },
+			{ "chance": 0.2, "name": "Enduring Legacy Syncytium" },
+			{ "chance": 0.32, "name": "Ultimate Valby Cells" },
+			{ "chance": 0.32, "name": "Wave of Light Code" }
+		],
+		"dropsFrom": "Hagios (Hard) - The Haven",
+		"useIn": "(Hard): Frost Walker, Gluttony"
+	},
+	"116": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Stabilizer" },
+			{ "chance": 0.1, "name": "Jayber Spiral" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Divine Punishment Code" },
+			{ "chance": 0.32, "name": "Clairvoyance Syncytium" }
+		],
+		"dropsFrom": "Hagios (Hard) - Old Mystery",
+		"useIn": "(Hard): Frost Walker"
+	},
+	"117": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Bunny Stabilizer" },
+			{ "chance": 0.2, "name": "Viessa Spiral" },
+			{
+				"chance": 0.32,
+				"name": "The Final Masterpiece Syncytium"
+			},
+			{ "chance": 0.32, "name": "Kings Guard Lance Code" }
+		],
+		"dropsFrom": "Hagios (Hard) - Old Mystery",
+		"useIn": "(Hard): Frost Walker"
+	},
+	"118": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Viessa Spiral" },
+			{ "chance": 0.1, "name": "Valby Cells" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Piercing Light Syncytium" },
+			{
+				"chance": 0.32,
+				"name": "Nazeistras Devotion Fiber"
+			}
+		],
+		"dropsFrom": "Fortress (Hard) - Frozen Valley: Vulgus Strategic Outpost",
+		"useIn": "Fortress (Hard) - Frozen Valley: Void Fusion Reactor"
+	},
+	"119": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Enduring Legacy Code" },
+			{ "chance": 0.2, "name": "Jayber Cells" },
+			{ "chance": 0.32, "name": "Blue Beetle Nano Tube" },
+			{ "chance": 0.32, "name": "Ajax Cells" }
+		],
+		"dropsFrom": "Fortress (Hard) - Frozen Valley: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Fortress (Hard) - Frozen Valley: Void Fusion Reactor"
+	},
+	"120": {
+		"drops": [
+			{ "chance": 0.06, "name": "Yujin Code" },
+			{ "chance": 0.1, "name": "Wave of Light Fiber" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Gley Cells" },
+			{ "chance": 0.32, "name": "Secret Garden Fiber" }
+		],
+		"dropsFrom": "Fortress (Hard) - Convertor Facility: Vulgus Strategic Outpost",
+		"useIn": "Fortress (Hard) - Fallen Ark: Void Fusion Reactor"
+	},
+	"121": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Ajax Cells" },
+			{ "chance": 0.2, "name": "Esiemo Cells" },
+			{ "chance": 0.32, "name": "Clairvoyance Fiber" },
+			{ "chance": 0.32, "name": "Executor Code" }
+		],
+		"dropsFrom": "Fortress (Hard) - Convertor Facility: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Fortress (Hard) - Fallen Ark: Void Fusion Reactor"
+	},
+	"122": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Cells" },
+			{ "chance": 0.1, "name": "Perforator Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Afterglow Sword Syncytium" },
+			{ "chance": 0.32, "name": "Lepic Stabilizer" }
+		],
+		"dropsFrom": "Fortress (Hard) - Defense Line: Vulgus Strategic Outpost",
+		"useIn": "Fortress (Hard) - Defense Line: Void Fusion Reactor"
+	},
+	"123": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Kyle Spiral" },
+			{ "chance": 0.2, "name": "Ultimate Bunny Spiral" },
+			{ "chance": 0.32, "name": "Python Code" },
+			{ "chance": 0.32, "name": "Divine Punishment Fiber" }
+		],
+		"dropsFrom": "Fortress (Hard) - Defense Line: Vulgus Strategic Outpost (Successful Infiltration)",
+		"useIn": "Fortress (Hard) - Defense Line: Void Fusion Reactor"
+	},
+	"124": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Ajax Spiral" },
+			{ "chance": 0.1, "name": "Gley Code" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{ "chance": 0.32, "name": "Restored Relic Syncytium" },
+			{ "chance": 0.32, "name": "Perforator Fiber" }
+		],
+		"dropsFrom": "Fortress (Hard) - Quarantine Zone",
+		"useIn": "(Hard): Molten Fortress"
+	},
+	"125 AA": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Ultimate Viessa Code" },
+			{ "chance": 0.2, "name": "Ultimate Valby Code" },
+			{ "chance": 0.32, "name": "Piercing Light Fiber" },
+			{ "chance": 0.32, "name": "Wave of Light Syncytium" }
+		],
+		"dropsFrom": "Fortress (Hard) - Quarantine Zone",
+		"useIn": "(Hard): Molten Fortress, Gluttony"
+	},
+	"126": {
+		"drops": [
+			{ "chance": 0.06, "name": "Ultimate Gley Code" },
+			{ "chance": 0.1, "name": "Ajax Spiral" },
+			{ "chance": 0.2, "name": "Crystal" },
+			{
+				"chance": 0.32,
+				"name": "Divine Punishment Syncytium"
+			},
+			{ "chance": 0.32, "name": "Enduring Legacy Fiber" }
+		],
+		"dropsFrom": "Fortress (Hard) - Heart of the Fortress",
+		"useIn": "(Hard): Molten Fortress"
+	},
+	"127": {
+		"drops": [
+			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.1, "name": "Esiemo Spiral" },
+			{ "chance": 0.2, "name": "Afterglow Sword Nano Tube" },
+			{ "chance": 0.32, "name": "Kyle Stabilizer" },
+			{ "chance": 0.32, "name": "Blue Beetle Code" }
+		],
+		"dropsFrom": "Fortress (Hard) - Heart of the Fortress",
+		"useIn": "(Hard): Molten Fortress"
+	}
+}

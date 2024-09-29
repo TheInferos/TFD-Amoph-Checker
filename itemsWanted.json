@@ -1,0 +1,102 @@
+{
+  "Hex": {
+    "Peacemaker": {
+      "Fiber": 5,
+      "Nano Tube": 5,
+      "Syncytium": 5
+    },
+    "Gregs Reversed Fate": {
+      "Fiber": 3,
+      "Nano Tube": 2
+    },
+    "Enduring Legacy": {
+      "Syncytium": 2,
+      "Fiber": 4
+    },
+    "Secret Garden": {
+      "Nano Tube": 2
+    },
+    "Python": {
+      "Nano Tube": 2
+    },
+    "Afterglow Sword": {
+      "Code": 2
+    },
+    "Blue Beetle": {
+      "Syncytium": 3,
+      "Nano Tube": 2,
+      "Code": 3
+    },
+    "Nazeistras Devotion": {
+      "Syncytium": 1,
+      "Fiber": 2,
+      "Nano Tube": 1
+    },
+    "Perforator": {
+      "Fiber": 2,
+      "Code": 1
+    },
+    "Piercing Light": {
+      "Syncytium": 2, 
+      "Nano Tube": 1,
+      "Code": 3 
+    },
+    "Smithereens":{
+      "Syncytium": 4,
+      "Fiber": 4,
+      "Nano Tube":4
+    },
+    "Restored Relic": {
+      "Syncytium": 4,
+      "Nano Tube": 4,
+      "Code": 2
+    },
+    "Clairvoyance":{
+      "Syncytium": 2,
+      "Fiber": 3,
+      "Code": 1
+    },
+    "Divine Punishment":{
+      "Syncytium": 2,
+      "Fiber": 4,
+      "Code": 4
+    },
+    "Albion Cavalry Gun":{
+      "Syncytium": 2,
+      "Fiber":4,
+      "Code": 3
+    },
+    "Wave of Light": {
+      "Syncytium": 4,
+      "Fiber": 4
+    },
+    "Kings Guard Lance": {
+      "Syncytium":4,
+      "Fiber": 4,
+      "Nano Tube": 4,
+      "Code":4
+    }
+  },
+  "Sini": {
+    "Executor": {
+      "Fiber": 2
+    },
+    "Enduring Legacy": {
+      "Code": 4,
+      "Fiber": 3,
+      "Nano Tube": 3
+    },
+    "Python": {
+      "Nano Tube": 1
+    },
+    "Secret Garden": {
+      "Nano Tube": 4
+    },
+    "Ultimate Ajax": {
+      "Stabilizer": 1
+    },
+    "Kyle": {
+      "Code": 1
+    }
+  }
+}
