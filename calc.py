@@ -3,6 +3,7 @@ players = [ "Sini", "Hex"]
 file_path = "output.txt"
 patternFile = "Amorph.json"
 itemsWanted = "itemsWanted.json"
+
 def main():
     patterns = read_json_file(patternFile)
     wants = read_json_file(itemsWanted)
@@ -14,10 +15,8 @@ def main():
     mapOpenings(playerMap)
     orderPlayerOpenings(playerMap)
     common_items = list(set(list(playerMap["Sini"]["locations"].keys())) & set(list(playerMap["Hex"]["locations"].keys())))
-
-    nice_message = prettyPrint(playerMap, common_items)
+    nice_message = prettyPrintAll(playerMap, common_items)
     writeFile(nice_message)
-    123
 
 # Function to read and parse a JSON file
 def read_json_file(file_path):
@@ -31,6 +30,7 @@ def mapWants(want):
         for part in want[base]:
             ob[base + " " + part] = want[base][part]
     return ob
+
 
 def findWantedAmorphs(patterns, wants):
     amorphValues = {}
@@ -49,7 +49,7 @@ def checkAmorph(amorph, wants):
         if item["name"] in wants and wants[item["name"]]>0:
             items.append(item["name"])
             wanted += item["chance"]
-            message += "\t\t" + item["name"] + " at  " + str(int(item["chance"]*100)) + "% chance\n"
+            message += f"\t\t{item["name"]}  at  {str(int(item["chance"]*100))}% chance\n"
     return {"items": items, "worth":wanted, "message": message, "amorph": amorph}
 
 def mapOpenerToAmorph(amorphs):
@@ -72,9 +72,8 @@ def mapOpenings(players):
             players[player]["locations"][amorph["useIn"]].append(material)
 
 
-def prettyPrint(players, common_list):
+def prettyPrintAll(players, common_list):
     output = ""
-    
     # Print common locations and items
     for location in common_list:
         output += f"{location}:\n"  # Better formatting
