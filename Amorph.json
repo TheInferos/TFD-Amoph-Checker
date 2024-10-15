@@ -144,10 +144,10 @@
 		"dropsFrom": "Sterile Land (Normal) - Block Kuiper Mining",
 		"useIn": "Stunning Beauty"
 	},
-	"012": {
+	"012 AB": {
 		"drops": [
 			{ "chance": 0.03, "name": "Energy" },
-			{ "chance": 0.06, "name": "Enduring Legacy Fiber" },
+			{ "chance": 0.06, "name": "Ultimate Freyna Stabilizer" },
 			{ "chance": 0.15, "name": "Lepic Cells" },
 			{ "chance": 0.38, "name": "Gregs Reversed Fate Code" },
 			{ "chance": 0.38, "name": "Gley Cells" }
@@ -489,10 +489,10 @@
 		"dropsFrom": "White-night Gulch (Normal) - Block Kuiper mining",
 		"useIn": "Pyromaniac"
 	},
-	"039": {
+	"039 AB": {
 		"drops": [
 			{ "chance": 0.03, "name": "Energy" },
-			{ "chance": 0.06, "name": "Clairvoyance Fiber" },
+			{ "chance": 0.06, "name": "Ultimate Freyna Stabilizer" },
 			{ "chance": 0.15, "name": "Python Nano Tube" },
 			{ "chance": 0.38, "name": "Enzo Stabilizer" },
 			{ "chance": 0.38, "name": "Wave of Light Nano Tube" }
@@ -581,11 +581,11 @@
 		"dropsFrom": "Hagios (Normal) - Neutralize Void Experiment",
 		"useIn": "Swamp Walker"
 	},
-	"046": {
+	"046 AB": {
 		"drops": [
 			{ "chance": 0.03, "name": "Energy" },
 			{ "chance": 0.06, "name": "Executor Fiber" },
-			{ "chance": 0.15, "name": "Divine Punishment Code" },
+			{ "chance": 0.15, "name": "Ultimate Freyna Code" },
 			{ "chance": 0.38, "name": "Restored Relic Nano Tube" },
 			{ "chance": 0.38, "name": "Viessa Spiral" }
 		],
@@ -684,10 +684,10 @@
 		"dropsFrom": "Fortress (Normal) - Defend Albion resources",
 		"useIn": "Hanged Man"
 	},
-	"054": {
+	"054 AB": {
 		"drops": [
 			{ "chance": 0.06, "name": "Esiemo Code" },
-			{ "chance": 0.1, "name": "Kyle Cells" },
+			{ "chance": 0.1, "name": "Ultimate Freyna Spiral" },
 			{ "chance": 0.2, "name": "Crystal" },
 			{ "chance": 0.32, "name": "Python Syncytium" },
 			{ "chance": 0.32, "name": "Secret Garden Code" }
@@ -786,10 +786,10 @@
 		"dropsFrom": "Sterile Land (Hard) - The Repository: Vulgus Strategic Outpost",
 		"useIn": "Sterile Land (Hard) - The Repository: Void Fusion Reactor"
 	},
-	"063": {
+	"063 AB": {
 		"drops": [
 			{ "chance": 0.06, "name": "Energy" },
-			{ "chance": 0.1, "name": "Valby Code" },
+			{ "chance": 0.1, "name": "Ultimate Freyna Cells" },
 			{ "chance": 0.2, "name": "Kyle Cells" },
 			{ "chance": 0.32, "name": "Wave of Light Fiber" },
 			{ "chance": 0.32, "name": "Python Code" }
@@ -830,9 +830,9 @@
 		"dropsFrom": "Sterile Land (Hard) - The Forgottense",
 		"useIn": "(Hard): Dead Bride"
 	},
-	"067": {
+	"067 AB": {
 		"drops": [
-			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.06, "name": "Ultimate Freyna Code" },
 			{ "chance": 0.1, "name": "Esiemo Stabilizer" },
 			{ "chance": 0.2, "name": "Ajax Spiral" },
 			{ "chance": 0.32, "name": "Enduring Legacy Fiber" },
@@ -974,10 +974,10 @@
 		"dropsFrom": "Vespers (Hard) - The Shelter",
 		"useIn": "(Hard): Devourer"
 	},
-	"079": {
+	"079 AB": {
 		"drops": [
 			{ "chance": 0.06, "name": "Energy" },
-			{ "chance": 0.1, "name": "Yujin Stabilizer" },
+			{ "chance": 0.1, "name": "Ultimate Freyna Spiral" },
 			{ "chance": 0.2, "name": "Afterglow Sword Code" },
 			{ "chance": 0.32, "name": "Lepic Spiral" },
 			{
@@ -1024,10 +1024,10 @@
 		"dropsFrom": "Echo Swamp (Hard) - Derelict Covert: Vulgus Strategic Outpost",
 		"useIn": "Echo Swamp (Hard) - Derelict Covert: Void Fusion Reactor"
 	},
-	"083": {
+	"083 AB": {
 		"drops": [
 			{ "chance": 0.06, "name": "Energy" },
-			{ "chance": 0.1, "name": "Viessa Code" },
+			{ "chance": 0.1, "name": "Ultimate Freyna Cell" },
 			{ "chance": 0.2, "name": "Enduring Legacy Syncytium" },
 			{ "chance": 0.32, "name": "Gley Stabilizer" },
 			{ "chance": 0.32, "name": "Albion Cavalry Gun Code" }
@@ -1184,9 +1184,9 @@
 		"dropsFrom": "Agna Desert (Hard) - Caligo Ossuary",
 		"useIn": "(Hard): Swamp Walker"
 	},
-	"097": {
+	"097 AB": {
 		"drops": [
-			{ "chance": 0.06, "name": "Energy" },
+			{ "chance": 0.06, "name": "Ultimate Freyna Stabilizer" },
 			{ "chance": 0.1, "name": "Enduring Legacy Code" },
 			{ "chance": 0.2, "name": "Enzo Cells" },
 			{ "chance": 0.32, "name": "Kings Guard Lance Code" },
@@ -1217,9 +1217,9 @@
 		"dropsFrom": "White-night Gulch (Hard) - The Mountaintops: Vulgus Strategic Outpost (Successful Infiltration)",
 		"useIn": "White-night Gulch (Hard) - The Mountaintops: Void Fusion Reactor"
 	},
-	"100": {
+	"100 AB": {
 		"drops": [
-			{ "chance": 0.06, "name": "Yujin Code" },
+			{ "chance": 0.06, "name": "Ultimate Freyna Code" },
 			{ "chance": 0.1, "name": "Jayber Code" },
 			{ "chance": 0.2, "name": "Crystal" },
 			{ "chance": 0.32, "name": "Afterglow Sword Syncytium" },
@@ -1441,10 +1441,10 @@
 		"dropsFrom": "Fortress (Hard) - Frozen Valley: Vulgus Strategic Outpost",
 		"useIn": "Fortress (Hard) - Frozen Valley: Void Fusion Reactor"
 	},
-	"119": {
+	"119 AB": {
 		"drops": [
 			{ "chance": 0.06, "name": "Energy" },
-			{ "chance": 0.1, "name": "Enduring Legacy Code" },
+			{ "chance": 0.1, "name": "Ultimate Freyna Cells" },
 			{ "chance": 0.2, "name": "Jayber Cells" },
 			{ "chance": 0.32, "name": "Blue Beetle Nano Tube" },
 			{ "chance": 0.32, "name": "Ajax Cells" }
@@ -1532,10 +1532,10 @@
 		"dropsFrom": "Fortress (Hard) - Heart of the Fortress",
 		"useIn": "(Hard): Molten Fortress"
 	},
-	"127": {
+	"127 AB": {
 		"drops": [
 			{ "chance": 0.06, "name": "Energy" },
-			{ "chance": 0.1, "name": "Esiemo Spiral" },
+			{ "chance": 0.1, "name": "Ultimate Freyna Spiral" },
 			{ "chance": 0.2, "name": "Afterglow Sword Nano Tube" },
 			{ "chance": 0.32, "name": "Kyle Stabilizer" },
 			{ "chance": 0.32, "name": "Blue Beetle Code" }
